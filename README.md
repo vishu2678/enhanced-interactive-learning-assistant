@@ -19,5 +19,5 @@ The **Enhanced Interactive Learning Assistant** is an AI-powered application tha
 ### Steps to Set Up:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/enhanced-interactive-learning-assistant.git
+   git clone https://github.com/vishu2678/enhanced-interactive-learning-assistant.git
 
